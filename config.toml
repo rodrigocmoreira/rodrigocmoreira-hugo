@@ -4,6 +4,7 @@ title = "#dev"
 theme = "minimal"
 disqusShortname = "rodrigocmoreira.github.io" # delete this to disable disqus comments
 googleAnalytics = ""
+relativeurls = false
 
 [params]
     author = "Rodrigo Cardoso Moreira"
